@@ -1,4 +1,4 @@
-# Nima Dashboard app
+# My Online Dashboard App
 A data visualization dashboard that runs as a web application. This dashboard extracts live data from WorldBank API.
 
 ## How to Run
